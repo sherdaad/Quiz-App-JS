@@ -23,5 +23,5 @@ Easy to run in any modern web browser.
 
 Created for learning and practice purposes.
 
-![Image](https://github.com/user-attachments/assets/030e8d53-19a8-4f7d-bfb7-532359216cbc)
-![Image](https://github.com/user-attachments/assets/97f11687-0e17-4cd5-b9a7-19c95a67c58c)
+![Image](https://github.com/user-attachments/assets/55d45b06-7978-4122-ab07-9cb4f24b0ebb)
+![Image](https://github.com/user-attachments/assets/30a20856-852c-4878-ab2a-f7c3db3b629b)
