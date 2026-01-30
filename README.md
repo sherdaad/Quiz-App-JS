@@ -1,7 +1,7 @@
 # Quiz-App-JS
 quiz application using HTML,CSS &amp; Javascript
 
-HTML & JavaScript Quiz Website
+#HTML & JavaScript Quiz Website
 
 This is a simple quiz website built using HTML and JavaScript.
 
